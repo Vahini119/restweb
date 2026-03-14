@@ -546,7 +546,7 @@ contact.html
             for online deleivery:
             </div>
             <div class="app">
-             visit ou app <span>Modernkitchen app</span><br>
+             visit our app <span>Modernkitchen app</span><br>
              Fastest deleivery.<br>
              Free deleivery charges.
         </div>
@@ -692,10 +692,13 @@ span
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot (71).png>)
-![alt text](<Screenshot (72).png>)
-![alt text](<Screenshot (73).png>)
-![alt text](<Screenshot (74).png>)
+![alt text](<Screenshot (76).png>)
+![alt text](<Screenshot (77).png>)
+![alt text](<Screenshot (78).png>)
+![alt text](<Screenshot (79).png>)
+
+
+
 
 
 ## RESULT:
